@@ -1,4 +1,4 @@
-# Blips | FiveM | Standalone | ESX | QBcore
+# Blips | FiveM | ESX | QBcore
 
 Simple FiveM Script for Creating Blips. 
 
