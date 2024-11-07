@@ -7,5 +7,6 @@ author "by Pathz"
 
 client_scripts {
     'client/main.lua',
+    'config/cl_config.lua'
 }
 
